@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(bg_1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.box{
+  width: 45%;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 50px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: "Oswald";
+  margin-bottom: 1%;
+  padding: 0;
+}
+
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 5px;
+}
+
+.box h1{
+  font-size: 90px;
+  letter-spacing: 2.5px;
+  font-weight: 100px;
+  margin-bottom: 1px;
+}
+
+.box h5{
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  letter-spacing: 1px;
+  font-weight: 20px;
+  margin-bottom: 13px;
+}
+
+.box p{
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+  a {
+  text-decoration: none;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+h1:nth-child(1) a {
+  color: #fff;
+  font-family: Monoton;
+  -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+  -moz-animation: neon1 1.5s ease-in-out infinite alternate;
+  animation: neon1 1.5s ease-in-out infinite alternate;
+}
+
+h1:nth-child(1) a:hover {
+  color: #FF1177;
+  -webkit-animation: none;
+  -moz-animation: none;
+  animation: none;
+}
+
+@-webkit-keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+  }
+}
+
+@-moz-keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+  }
+}
+
+@keyframes neon1 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+  }
+}
+
+@media (max-width: 650px) {
+  #container {
+    width: 100%;
+  }
+  p {
+    font-size: 3.5em;
+  }
+}
+*/
